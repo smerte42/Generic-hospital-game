@@ -10,6 +10,7 @@ linux:
    for GCC: 'G++ ./main.cpp -o main'
 5. run it
    ./main
+------------------------------------------------
 windows:
 https://learn.microsoft.com/en-us/cpp/build/walkthrough-compiling-a-native-cpp-program-on-the-command-line?view=msvc-170
 follow this and you'll be fine :) (I never complied C++ on windows yet)
